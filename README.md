@@ -8,4 +8,4 @@ Session 2: [Clinical data preparation and evaluation](notebooks/session_02/ed_de
 
 Session 3: [Type 2 diabetes and the gut microbiome](notebooks/session_03/week03_microbiome.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/session-03-t2d-microbiome/notebooks/session_03/week03_microbiome.ipynb) · [Data dictionary](notebooks/session_03/data/t2d_microbiome_DICTIONARY.md).
 
-Session 4: [Model evaluation and metrics](notebooks/session_04/S4_metrics.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/session-04-metrics/notebooks/session_04/S4_metrics.ipynb) · [Handout](notebooks/session_04/S4_lab_handout.md).
+Session 4: [Model evaluation and metrics](notebooks/session_04/S4_metrics.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/main/notebooks/session_04/S4_metrics.ipynb) · [Handout](notebooks/session_04/S4_lab_handout.md).
