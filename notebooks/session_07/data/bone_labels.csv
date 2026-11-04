@@ -1,0 +1,1001 @@
+cell_id,compartment,lineage,cell_type
+TGTCCTATGACAATTA-1_D01,stromal,reticular (CAR),Osteo-CAR
+GCCCAGAGCCGATACA-1_D06,endothelial,endothelial,sinusoidal EC
+CTCCGCGTTAAAGGGA-1_D13,endothelial,endothelial,sinusoidal EC
+GGAGCTTGATCGGAGA-1_D09,stromal,osteolineage,osteocyte
+AGGTGGGCATGGTTCC-1_D16,haematopoietic,myeloid,classical monocyte
+GAGGAGGACTATCACT-1_D10,haematopoietic,myeloid,classical monocyte
+AGAGCCCGTCATCAGT-1_D13,stromal,reticular (CAR),Adipo-CAR
+AATCTCATCCCTTTCA-1_D05,stromal,reticular (CAR),Osteo-CAR
+GTAATGCGAGCGGCTT-1_D04,haematopoietic,progenitor / erythroid,erythroid progenitor
+AATTTCCACCGGATTC-1_D04,stromal,osteolineage,osteoblast
+AGCTCTCGCAACTATC-1_D14,stromal,reticular (CAR),Adipo-CAR
+TTAGGTTAGTGAACGT-1_D11,endothelial,endothelial,arterial EC
+AATCGTCGACGACGCT-1_D05,haematopoietic,myeloid,osteoclast
+TGGCTAGGTCACACAT-1_D05,haematopoietic,myeloid,neutrophil
+TAGTGTATACAGTTGA-1_D11,haematopoietic,lymphoid,T cell
+CACAGACTAAAAGCAA-1_D07,haematopoietic,myeloid,macrophage
+CCCATCAGCCGGCTTA-1_D14,endothelial,endothelial,arterial EC
+CAACGAAATCTGACCA-1_D14,haematopoietic,myeloid,neutrophil
+GAAGCGCCGAAATGAA-1_D03,stromal,reticular (CAR),Adipo-CAR
+TACCCCGGAGCGTCCT-1_D02,haematopoietic,myeloid,neutrophil
+GAGCACCATCGGCATT-1_D04,haematopoietic,progenitor / erythroid,erythroid progenitor
+CGGCTGTAGTACGAGA-1_D14,haematopoietic,myeloid,neutrophil
+CGGGATAGTTATCGAC-1_D04,endothelial,endothelial,sinusoidal EC
+CAGTTTCAAATTCGGG-1_D11,stromal,osteolineage,osteoblast
+GTTACAGCGGCCAGAT-1_D07,stromal,osteolineage,osteoprogenitor
+TTGGTAGATTTGTTAG-1_D13,haematopoietic,myeloid,classical monocyte
+GAACTAACGGGAGGGG-1_D03,endothelial,endothelial,sinusoidal EC
+TCCAAGGGAACCGCAG-1_D13,haematopoietic,myeloid,neutrophil
+GATGTTGGTGGTTGAG-1_D03,stromal,osteolineage,osteoblast
+TCCAGAATCCGAAGGT-1_D09,stromal,osteolineage,osteocyte
+CGGAAGGGCGTTGTGT-1_D14,stromal,osteolineage,osteoblast
+GTTCCTGCTAAATGCA-1_D06,haematopoietic,progenitor / erythroid,erythroid progenitor
+ACTCATGCACCTAGCT-1_D07,haematopoietic,lymphoid,T cell
+TCCAAATAAGAAACAT-1_D10,endothelial,endothelial,sinusoidal EC
+TCGGGACCTCGATGTA-1_D06,haematopoietic,myeloid,classical monocyte
+TAGAGTACCGCGAAAA-1_D12,haematopoietic,myeloid,neutrophil
+AACCACAATGTCATGT-1_D07,haematopoietic,myeloid,classical monocyte
+GTTGATGTTCTTTCGT-1_D01,haematopoietic,lymphoid,T cell
+TTTCCCTTTCACCTAT-1_D08,haematopoietic,lymphoid,B cell
+AGAGCCCGCTTATGCC-1_D03,haematopoietic,myeloid,neutrophil
+CGAGCTCGCTCATAGA-1_D08,haematopoietic,myeloid,classical monocyte
+GGAGGGTAGTCATTTT-1_D03,stromal,reticular (CAR),Osteo-CAR
+TCAGCGCTCTCGTTTC-1_D10,haematopoietic,progenitor / erythroid,HSPC
+CGATATAATATAAACG-1_D05,stromal,chondrocyte,chondrocyte
+TCAAAGCTGACCAAAG-1_D13,doublet,doublet,doublet
+TGTCAAAGCCAATCTA-1_D06,haematopoietic,myeloid,classical monocyte
+TATAGGATAATTTGAT-1_D08,haematopoietic,myeloid,osteoclast
+AATCTTCCGAGGGTCC-1_D07,stromal,reticular (CAR),Osteo-CAR
+AACTAACTTTATGGTC-1_D15,haematopoietic,lymphoid,T cell
+GCAGCCGAGGACGACG-1_D16,haematopoietic,myeloid,neutrophil
+AGACATGCGAACGTTG-1_D16,stromal,reticular (CAR),Adipo-CAR
+TCGGTCTAGCTCTTCC-1_D11,stromal,osteolineage,osteoblast
+GGTCAGTTCGAAGCTG-1_D13,stromal,osteolineage,osteoblast
+CCGATAGACGAATCTG-1_D11,stromal,reticular (CAR),Adipo-CAR
+CTGTTAGCCCCAGTAC-1_D01,haematopoietic,progenitor / erythroid,erythroid progenitor
+AGTCATTTTGGTTCAT-1_D02,haematopoietic,myeloid,neutrophil
+TGTTTAATTTCCATGT-1_D11,stromal,osteolineage,osteoblast
+GTCACTATCAGACGTT-1_D16,haematopoietic,myeloid,classical monocyte
+GCTCGTAAATTACACC-1_D03,stromal,osteolineage,osteoprogenitor
+ATGGACACCCTTACAA-1_D10,stromal,reticular (CAR),Adipo-CAR
+AGACTGGCCGGATGCG-1_D10,stromal,osteolineage,osteoblast
+TCCGTTAAGTGCCGTA-1_D15,haematopoietic,progenitor / erythroid,erythroid progenitor
+AGTAACACCTTTGCCC-1_D06,haematopoietic,progenitor / erythroid,erythroid progenitor
+CCCTTTTTGCTGGATA-1_D04,stromal,reticular (CAR),Adipo-CAR
+CAGGTGTGAGCTATTG-1_D07,stromal,reticular (CAR),Adipo-CAR
+ACATTTCGCTGGGCAC-1_D06,stromal,osteolineage,osteoprogenitor
+TGCTAGGACCGACTGT-1_D07,haematopoietic,progenitor / erythroid,erythroid progenitor
+CTCCTTACATCCCTCC-1_D06,stromal,osteolineage,osteoprogenitor
+TGGTACCATTGTGGAA-1_D13,stromal,reticular (CAR),Osteo-CAR
+AGCATCATACTACCAG-1_D11,stromal,chondrocyte,chondrocyte
+GCCTATTTAGGCTGCT-1_D10,doublet,doublet,doublet
+ACAGACGCGAGCGACC-1_D05,haematopoietic,myeloid,neutrophil
+GGTGGTAGTACGCCAG-1_D16,endothelial,endothelial,sinusoidal EC
+ATGGGATCTGTTGACG-1_D05,stromal,osteolineage,osteoprogenitor
+CTTCGGCTGGAACGAC-1_D11,haematopoietic,myeloid,classical monocyte
+CACGATGAACGATAAC-1_D14,stromal,reticular (CAR),Osteo-CAR
+GATAGGCACAAGACCC-1_D05,endothelial,endothelial,arterial EC
+AACTCATTAAGTACTA-1_D10,stromal,osteolineage,osteoblast
+ACGTCTGCATATGGGC-1_D03,stromal,reticular (CAR),Adipo-CAR
+ACGCCATGGCCGACAC-1_D06,endothelial,endothelial,arterial EC
+ATTAGTAGACCGGGTC-1_D03,haematopoietic,myeloid,classical monocyte
+TAATACAACCGACAAC-1_D14,stromal,chondrocyte,chondrocyte
+ATGCCGTGATGTGTCG-1_D13,haematopoietic,lymphoid,T cell
+GGAGAGATCAAGAATT-1_D06,stromal,reticular (CAR),Osteo-CAR
+CTCTCCGCCTAATGCC-1_D04,haematopoietic,myeloid,macrophage
+TAGGGCAACGTCCTTC-1_D02,haematopoietic,progenitor / erythroid,erythroid progenitor
+ATTAGGCAATATGGCA-1_D13,haematopoietic,progenitor / erythroid,erythroid progenitor
+TTGCGCAACGGTGATA-1_D03,haematopoietic,lymphoid,T cell
+GTCTTATGAGAACGAA-1_D16,haematopoietic,myeloid,neutrophil
+AAAATATCGTCGTGAG-1_D11,stromal,osteolineage,osteoblast
+TAGTCACGCGAGCTCC-1_D06,endothelial,endothelial,sinusoidal EC
+GTCGCCTGGACGGCCT-1_D15,haematopoietic,lymphoid,B cell
+GAGTCCACAAGAGTCT-1_D01,haematopoietic,myeloid,neutrophil
+AAGGACCTATCGCTAA-1_D08,stromal,reticular (CAR),Osteo-CAR
+CGCTTCTGGACACAAT-1_D15,haematopoietic,myeloid,classical monocyte
+CCCAGGACCGCCATTT-1_D15,endothelial,endothelial,sinusoidal EC
+AGCGACGCAGCTGGAG-1_D01,haematopoietic,myeloid,classical monocyte
+CGACGGGACAGTCGTT-1_D10,haematopoietic,myeloid,classical monocyte
+TGGAACCTGCGTTTCA-1_D07,haematopoietic,lymphoid,B cell
+AGCTACGGGGGTGACG-1_D09,haematopoietic,myeloid,osteoclast
+GATATTATCACCGTGA-1_D06,haematopoietic,myeloid,osteoclast
+GCCGACAAAGTTCGTG-1_D08,stromal,reticular (CAR),Osteo-CAR
+GGTCATCGAATGCTGC-1_D06,stromal,reticular (CAR),Osteo-CAR
+TGTAAATCTCTAAAAG-1_D10,haematopoietic,progenitor / erythroid,erythroid progenitor
+AATCGCATGTACGAGG-1_D14,haematopoietic,lymphoid,T cell
+CCCTGAAATGTGCAGG-1_D03,stromal,osteolineage,osteoprogenitor
+ATCGCTGGCCAGAAGT-1_D07,haematopoietic,lymphoid,T cell
+CTTGGCCAGGGACTCC-1_D10,haematopoietic,lymphoid,B cell
+GGCGGGCCCCGGCCCC-1_D13,stromal,chondrocyte,chondrocyte
+AGGCTTTAAATTGTAA-1_D04,stromal,reticular (CAR),Osteo-CAR
+AAACTACTTAGCCCAA-1_D06,haematopoietic,lymphoid,T cell
+CTAGCCGTTAGCGCAT-1_D14,stromal,osteolineage,osteoblast
+CACTTGCTCTTGTACA-1_D10,stromal,reticular (CAR),Adipo-CAR
+GGGTATAAGCTGAGTC-1_D02,haematopoietic,myeloid,classical monocyte
+AACGGAACTCAGCAAG-1_D01,haematopoietic,progenitor / erythroid,erythroid progenitor
+ATAGTGACGAGAACGT-1_D14,haematopoietic,progenitor / erythroid,erythroid progenitor
+AGTACGCCGCTCCTAC-1_D06,stromal,reticular (CAR),Osteo-CAR
+CTCATGAAGCGCAAGC-1_D12,stromal,reticular (CAR),Adipo-CAR
+AATATCTTCTGCCCAA-1_D01,stromal,osteolineage,osteocyte
+TAAACAAGTACAAACG-1_D15,endothelial,endothelial,sinusoidal EC
+TCCTGGAGCGGGCAGA-1_D02,stromal,osteolineage,osteocyte
+AACGCGCTAGACTACG-1_D12,haematopoietic,lymphoid,B cell
+TAATAGGGTTTTAAAC-1_D05,stromal,reticular (CAR),Osteo-CAR
+AATATCACCAACCCCA-1_D02,haematopoietic,lymphoid,B cell
+GGACCTGGGAGTTGGG-1_D03,haematopoietic,progenitor / erythroid,erythroid progenitor
+AATGTGCTCTGCTACT-1_D04,stromal,osteolineage,osteoprogenitor
+GGGCGCAATATCCCGC-1_D10,haematopoietic,myeloid,macrophage
+CATTGCCCTTTCAGGG-1_D02,haematopoietic,lymphoid,T cell
+ATATGAAAGCTGACCA-1_D07,endothelial,endothelial,sinusoidal EC
+TCATTCTGTTTCTCTG-1_D08,stromal,chondrocyte,chondrocyte
+CGTACCACCGTTACAG-1_D13,haematopoietic,myeloid,classical monocyte
+AGGGTATGCTCGCAAG-1_D06,haematopoietic,myeloid,osteoclast
+AACCAGAGCACTTCCG-1_D04,haematopoietic,lymphoid,B cell
+CTCGATCGCCCCCGCG-1_D06,haematopoietic,myeloid,macrophage
+CGCTGCGACCCAGACG-1_D02,haematopoietic,progenitor / erythroid,HSPC
+ACACGTGCCAATTTAC-1_D01,haematopoietic,myeloid,osteoclast
+TAAATGAATACGCCAG-1_D11,stromal,chondrocyte,chondrocyte
+CTGTTTCCGGGAGACA-1_D16,stromal,reticular (CAR),Adipo-CAR
+CAAATTAATTCCTTCA-1_D02,stromal,chondrocyte,chondrocyte
+TAACTAGCAGCTGCGG-1_D11,endothelial,endothelial,sinusoidal EC
+GACTCGACGTACGTTT-1_D14,haematopoietic,lymphoid,T cell
+GATCCGAAGAACTCGA-1_D10,haematopoietic,progenitor / erythroid,erythroid progenitor
+AACATAGATTGACACC-1_D13,stromal,chondrocyte,chondrocyte
+TCTATTTCATCAGATT-1_D07,stromal,reticular (CAR),Adipo-CAR
+CTGAGGTAATAGAGCG-1_D12,endothelial,endothelial,arterial EC
+ATCGCTTTGGATTGCT-1_D11,haematopoietic,myeloid,osteoclast
+GGAGACACGTAGCGGT-1_D05,haematopoietic,myeloid,classical monocyte
+AGTGATCAAGATCAGC-1_D16,stromal,osteolineage,osteocyte
+AGATCACTCTACAAAT-1_D11,haematopoietic,myeloid,neutrophil
+GAGGTGTAGTTCAGAC-1_D16,haematopoietic,myeloid,macrophage
+GCCACCATGTACTCCT-1_D07,haematopoietic,myeloid,neutrophil
+GACAAAGATGGTTCTT-1_D08,stromal,reticular (CAR),Adipo-CAR
+TTTCGAACCATGACAC-1_D06,haematopoietic,lymphoid,T cell
+CTGGTGATGGCTTGGG-1_D15,haematopoietic,myeloid,osteoclast
+AATGTTCTACTTTCAT-1_D12,endothelial,endothelial,sinusoidal EC
+CCACCGCCTAGGGTAG-1_D06,stromal,reticular (CAR),Osteo-CAR
+CCTAACAACTCGCGAG-1_D03,haematopoietic,lymphoid,T cell
+TCCAAGTCTTCACTGT-1_D11,haematopoietic,lymphoid,T cell
+GCTCACAAAGTCAACC-1_D14,stromal,osteolineage,osteoblast
+CACGCTATGCAAACGT-1_D09,haematopoietic,myeloid,neutrophil
+CCAGGGTTTTGTAACG-1_D14,haematopoietic,myeloid,osteoclast
+TCCAGGCATGTGAAGT-1_D01,stromal,osteolineage,osteoblast
+ACGTGAGAATAAAGCA-1_D14,haematopoietic,lymphoid,T cell
+GCCCTGTCGCATATTG-1_D15,stromal,reticular (CAR),Osteo-CAR
+CGGCCCCACCGGCCCA-1_D02,haematopoietic,myeloid,neutrophil
+AATATCTCAACACGTC-1_D15,haematopoietic,myeloid,classical monocyte
+TCTGTCCGGGGATGGA-1_D10,haematopoietic,myeloid,neutrophil
+CAGATTGTGAAATCAA-1_D12,stromal,osteolineage,osteoprogenitor
+AGTAGGGTGCGGTTCG-1_D06,stromal,reticular (CAR),Adipo-CAR
+GAAGGTTGACAGTATA-1_D02,stromal,osteolineage,osteoprogenitor
+CCTGGCCGGAGGGACA-1_D14,stromal,reticular (CAR),Adipo-CAR
+TACTCTCACGCCGTTC-1_D08,haematopoietic,myeloid,macrophage
+TACAGGAACGAAATTG-1_D08,haematopoietic,progenitor / erythroid,erythroid progenitor
+AGAACGTGGAGGCAAT-1_D13,haematopoietic,lymphoid,T cell
+AGTGCCCTTCACGTAT-1_D07,stromal,reticular (CAR),Osteo-CAR
+AACTTGTCTGGGATAG-1_D07,haematopoietic,progenitor / erythroid,HSPC
+TATTTAGAACTGACGC-1_D10,stromal,chondrocyte,chondrocyte
+GGCACCTCAGACTAGC-1_D10,stromal,osteolineage,osteocyte
+AAGTCTCTAAACTATA-1_D13,stromal,osteolineage,osteocyte
+AGCCTCCACCTACTGA-1_D06,endothelial,endothelial,sinusoidal EC
+ATACTGCCTTGTCGCG-1_D12,stromal,reticular (CAR),Adipo-CAR
+AGAATTGTATCTATAG-1_D05,stromal,reticular (CAR),Adipo-CAR
+ATGCTCCGACATCTAT-1_D15,haematopoietic,myeloid,neutrophil
+CATGAATTGATGCCTC-1_D01,stromal,chondrocyte,chondrocyte
+TCGTTAATCAGGTTGG-1_D01,haematopoietic,progenitor / erythroid,erythroid progenitor
+TGGCCCGCAGTTTACC-1_D05,stromal,osteolineage,osteoblast
+ATGAGACCATTTGAAC-1_D01,haematopoietic,myeloid,neutrophil
+AATAAAGCCACAACAT-1_D03,haematopoietic,lymphoid,B cell
+GCGTTCATCACCAGAT-1_D06,haematopoietic,lymphoid,T cell
+AGCGTGATATCAGAAT-1_D14,endothelial,endothelial,sinusoidal EC
+AGCGTCCTTGGAGGTG-1_D02,haematopoietic,lymphoid,T cell
+AATGCTGTGACCCGGT-1_D08,endothelial,endothelial,arterial EC
+GTGTTGCATCTAACTT-1_D13,stromal,reticular (CAR),Adipo-CAR
+TTTAGGTTTCGTTTGG-1_D04,stromal,osteolineage,osteoblast
+ACTGGAGTCTAAAGTT-1_D13,haematopoietic,myeloid,osteoclast
+GCCTTACTCTTTGTAC-1_D14,stromal,osteolineage,osteoprogenitor
+GTACCGTGCTCTGTGT-1_D09,haematopoietic,myeloid,classical monocyte
+AACAATTATACGCCTA-1_D01,stromal,reticular (CAR),Adipo-CAR
+ATGATTTATCTATGGA-1_D01,haematopoietic,myeloid,osteoclast
+TGCCACCAGCCCAGGT-1_D01,haematopoietic,myeloid,neutrophil
+AGGAAGAAAGTGTTCG-1_D09,stromal,chondrocyte,chondrocyte
+GATCCTCACAGGGGTG-1_D06,stromal,reticular (CAR),Osteo-CAR
+CCTGTATCCATTGCCC-1_D07,haematopoietic,myeloid,osteoclast
+GTGAAGTGGTTCGGCA-1_D04,haematopoietic,progenitor / erythroid,HSPC
+TGTTAGTAGTAACTAT-1_D03,haematopoietic,myeloid,macrophage
+CTTACAAGGGAGCCAC-1_D04,haematopoietic,lymphoid,B cell
+GCAGTAGAACGACGTT-1_D16,stromal,chondrocyte,chondrocyte
+CTGGATATGGAGGACA-1_D04,stromal,osteolineage,osteocyte
+CTTTGATTGCGACTTG-1_D03,haematopoietic,progenitor / erythroid,HSPC
+AGCCATTCCAGTCGGA-1_D12,stromal,reticular (CAR),Adipo-CAR
+ATCCAACGGCGACTAT-1_D14,stromal,osteolineage,osteocyte
+ACACTAGGTGCTGGTT-1_D16,haematopoietic,myeloid,neutrophil
+TTCAGCCTACTGTGTC-1_D05,stromal,osteolineage,osteoprogenitor
+CGCTCATTTCACGGCT-1_D01,haematopoietic,lymphoid,B cell
+AGAACGATAGATATCC-1_D06,haematopoietic,lymphoid,T cell
+TCGGTTAGCAGCGTCT-1_D02,stromal,reticular (CAR),Adipo-CAR
+CGTCGTTGCTTGAACG-1_D11,haematopoietic,lymphoid,B cell
+TCCTACAAGGGCCATT-1_D04,haematopoietic,myeloid,classical monocyte
+TTTCACCTATCTAAGG-1_D14,endothelial,endothelial,sinusoidal EC
+GATCCAAACGAGGTAA-1_D04,endothelial,endothelial,sinusoidal EC
+CTCTAGAGCTCTTAAT-1_D06,stromal,osteolineage,osteoprogenitor
+GTACGTAAGCTAACCC-1_D07,doublet,doublet,doublet
+TTCGTCACTGAGCTCC-1_D15,endothelial,endothelial,sinusoidal EC
+TCCAGAGCCGAAAAAC-1_D07,haematopoietic,myeloid,classical monocyte
+TAACTGTCAAGCTGCA-1_D05,haematopoietic,myeloid,macrophage
+CAAATTTAAATAGCGG-1_D02,doublet,doublet,doublet
+CGACCTACGGCCAGAT-1_D02,stromal,osteolineage,osteoblast
+GCCGGGGAATGTGAAT-1_D07,stromal,chondrocyte,chondrocyte
+GGCCTTAGCGGAGAAC-1_D10,haematopoietic,lymphoid,T cell
+ATAACGCAACGGACCC-1_D04,endothelial,endothelial,arterial EC
+GGCGTGGTAGTTGGCC-1_D07,stromal,reticular (CAR),Adipo-CAR
+TTAGGGGACTGTGAAT-1_D11,haematopoietic,myeloid,neutrophil
+GCGTAGTCAATAATGT-1_D03,haematopoietic,myeloid,osteoclast
+CCCCGCAAACCAAACG-1_D07,stromal,reticular (CAR),Osteo-CAR
+TAGTTCTTGTCGAATT-1_D03,haematopoietic,progenitor / erythroid,HSPC
+TTTGAATAATTAGGGA-1_D01,stromal,reticular (CAR),Osteo-CAR
+CATAGCTCGTACGTTC-1_D16,haematopoietic,myeloid,classical monocyte
+GACCCGTACAATTAAA-1_D09,haematopoietic,myeloid,neutrophil
+ATTCGAGAGAATGGTC-1_D08,haematopoietic,myeloid,classical monocyte
+GCTCTCGAGCTAGCTC-1_D16,stromal,osteolineage,osteoprogenitor
+ATAGCCCGAGGGTGCT-1_D14,haematopoietic,progenitor / erythroid,erythroid progenitor
+TCGAACCCTCAGCCAT-1_D11,stromal,osteolineage,osteoprogenitor
+TTCCGATCCAGTATTC-1_D04,stromal,osteolineage,osteoblast
+GAAGAAGCAGATACAC-1_D13,haematopoietic,myeloid,classical monocyte
+GCTTCCGTTGAAAGGC-1_D12,haematopoietic,myeloid,neutrophil
+ATATTAAACTGTGAAG-1_D07,endothelial,endothelial,sinusoidal EC
+TTCAAAGTCTTCACGG-1_D08,endothelial,endothelial,sinusoidal EC
+TTCCGTATATTCGACT-1_D04,stromal,reticular (CAR),Adipo-CAR
+CGGTGCTAAGCCAGAT-1_D15,stromal,osteolineage,osteocyte
+AAGCATCAAGCACTCA-1_D01,stromal,osteolineage,osteoblast
+CTCGGATTTGGACATT-1_D04,haematopoietic,progenitor / erythroid,erythroid progenitor
+TGCGTAAACCGTCTTA-1_D09,endothelial,endothelial,arterial EC
+CGTTATAGTGGATGCT-1_D06,haematopoietic,progenitor / erythroid,erythroid progenitor
+TATTGCCAGTGAACGA-1_D06,doublet,doublet,doublet
+GACAGCCATACATGGC-1_D11,stromal,reticular (CAR),Adipo-CAR
+TTTTGACGGTTCAGCC-1_D10,haematopoietic,myeloid,osteoclast
+CCGACTAGTAGATGTG-1_D03,haematopoietic,myeloid,neutrophil
+GGGCAATCTCAACTTT-1_D11,stromal,osteolineage,osteocyte
+GCGGACCGGATCCTGC-1_D16,haematopoietic,myeloid,classical monocyte
+ACATCCGTTCCCATCG-1_D16,haematopoietic,myeloid,neutrophil
+TAGTCGGATATCAGTT-1_D10,haematopoietic,myeloid,neutrophil
+ATAGTGAAAGAAGTGC-1_D06,haematopoietic,myeloid,macrophage
+CCCAGCCCCGACACTG-1_D07,haematopoietic,myeloid,osteoclast
+ATGGGGCATAGACACG-1_D04,stromal,chondrocyte,chondrocyte
+AAAAAGAGTCGTGGAT-1_D11,stromal,osteolineage,osteoblast
+CCTGGATTTTCAAGTC-1_D06,stromal,osteolineage,osteoblast
+CGACACATGCTCAAGA-1_D16,stromal,osteolineage,osteoblast
+CGGCGCGTTGATCTCC-1_D13,haematopoietic,lymphoid,B cell
+TCGCGAGTTCATTATC-1_D06,doublet,doublet,doublet
+GCACCTATAATATCCA-1_D04,haematopoietic,myeloid,osteoclast
+GCGACAGTGTGCCCTA-1_D02,stromal,chondrocyte,chondrocyte
+TTCGTAAACCATCCAC-1_D07,endothelial,endothelial,sinusoidal EC
+GAACACTTGTACGAGA-1_D02,haematopoietic,myeloid,macrophage
+TGATAACAACCAGATC-1_D08,haematopoietic,myeloid,macrophage
+CACTCACCTCTTATAA-1_D11,haematopoietic,myeloid,neutrophil
+CGTGTACGGGCAAGCG-1_D10,stromal,reticular (CAR),Osteo-CAR
+AACGTGCCCCGGAATC-1_D04,stromal,reticular (CAR),Adipo-CAR
+GGCTGTCGGAGAGCAC-1_D04,haematopoietic,lymphoid,T cell
+ATAATTTGTAATTGAC-1_D12,stromal,chondrocyte,chondrocyte
+TCGCCAATTATCTTGA-1_D05,endothelial,endothelial,sinusoidal EC
+AACCGTCCTAAAGAGT-1_D01,haematopoietic,myeloid,classical monocyte
+TAAGCCTCATTTTCCA-1_D11,haematopoietic,myeloid,neutrophil
+AAGTGCCGATCAAAGT-1_D01,haematopoietic,myeloid,osteoclast
+GACATTGTCCAACCGT-1_D05,endothelial,endothelial,arterial EC
+TGCCCCGGGACCGCCA-1_D02,endothelial,endothelial,sinusoidal EC
+CGGCCCACTCATGTTT-1_D16,haematopoietic,myeloid,classical monocyte
+GTGAAGCGATCCCCCT-1_D13,haematopoietic,myeloid,neutrophil
+TGCATCCTCGCTGCCA-1_D07,haematopoietic,myeloid,classical monocyte
+AGATCGGGGCTCCCAT-1_D09,haematopoietic,myeloid,macrophage
+ACCACCCAGGATAGGG-1_D12,haematopoietic,myeloid,neutrophil
+CTGTGGTTTCCAATTA-1_D11,stromal,osteolineage,osteoblast
+CGGCAAGACCAGACCG-1_D03,haematopoietic,progenitor / erythroid,HSPC
+GTGCCGGAAATAGTAT-1_D08,haematopoietic,myeloid,neutrophil
+AATCAGGTCTGTCTAG-1_D03,stromal,osteolineage,osteoblast
+AAAGTGTGATACGCGT-1_D14,stromal,osteolineage,osteoprogenitor
+CGGAGGTTGTAACGTC-1_D03,haematopoietic,lymphoid,T cell
+GTATCTCACGGTTAGC-1_D14,stromal,reticular (CAR),Adipo-CAR
+ACGGAATACGAAGCTC-1_D07,haematopoietic,myeloid,classical monocyte
+GCTTTGACGGTGGGGC-1_D07,haematopoietic,myeloid,classical monocyte
+AAACCCTACCGTTACA-1_D16,haematopoietic,myeloid,macrophage
+CGCGATATATTGAGGG-1_D02,stromal,reticular (CAR),Osteo-CAR
+GCGTAAGGTGCCTGGA-1_D03,haematopoietic,myeloid,osteoclast
+CCATTGCGCTTGAATT-1_D10,haematopoietic,lymphoid,T cell
+AGTAAGTCGTCCCGCT-1_D06,stromal,reticular (CAR),Adipo-CAR
+GCTTACAAAATAACAG-1_D07,stromal,osteolineage,osteoblast
+ACTGCTATGCTGACCC-1_D13,haematopoietic,myeloid,neutrophil
+CTGAATGCGGAGGATC-1_D04,stromal,reticular (CAR),Adipo-CAR
+AACGCGGAGCTGACAA-1_D08,stromal,osteolineage,osteoprogenitor
+GTGAAGTCTATACAAG-1_D10,stromal,osteolineage,osteoblast
+ACAAGAGAATACAATG-1_D03,stromal,osteolineage,osteoprogenitor
+GTTGACCGGTGGATGG-1_D14,haematopoietic,progenitor / erythroid,erythroid progenitor
+GGAGGGTGGTGATATC-1_D02,haematopoietic,myeloid,macrophage
+GACATAAGAAGCTGAA-1_D09,stromal,osteolineage,osteoblast
+CTGCAAAACTGCTTTC-1_D16,haematopoietic,progenitor / erythroid,HSPC
+GAAGCACACCCCATGG-1_D12,haematopoietic,myeloid,macrophage
+CAGACTTCAAAAGCCA-1_D10,haematopoietic,myeloid,osteoclast
+GAGGGTCGACATCGCC-1_D09,doublet,doublet,doublet
+GATGCCTACGGCTAAC-1_D07,stromal,reticular (CAR),Adipo-CAR
+TCCATTCGATGAGAGA-1_D04,stromal,reticular (CAR),Osteo-CAR
+GCAAGAAGTACGGCAA-1_D14,haematopoietic,myeloid,macrophage
+GGCGCGAGTTCGTCAG-1_D16,haematopoietic,progenitor / erythroid,erythroid progenitor
+TTAAAGTTGACTCGGC-1_D11,haematopoietic,lymphoid,B cell
+TTTGCGTTCCGTAACT-1_D05,haematopoietic,lymphoid,T cell
+CCGTTAACGCGTCACC-1_D13,haematopoietic,myeloid,neutrophil
+GGCATCGGGTATTAGC-1_D04,haematopoietic,myeloid,neutrophil
+GTAGTTAAGAGATGCA-1_D06,stromal,osteolineage,osteocyte
+TGCTATATAGGCTCAC-1_D07,haematopoietic,lymphoid,T cell
+TGGCAATCTTGTCGCT-1_D10,stromal,reticular (CAR),Adipo-CAR
+AGCTCAGCCGCGGGCT-1_D01,haematopoietic,lymphoid,T cell
+CTGTCAACTGTAGAAC-1_D04,stromal,reticular (CAR),Adipo-CAR
+ATCCGGTAAGTACTAA-1_D15,stromal,reticular (CAR),Osteo-CAR
+TCGGGAGTAAATATTC-1_D13,stromal,osteolineage,osteoblast
+AGTTCGACCCAAACTG-1_D03,endothelial,endothelial,sinusoidal EC
+GAATAACCTATCGAGA-1_D12,endothelial,endothelial,sinusoidal EC
+TGCCGGCCCACTTCCT-1_D08,haematopoietic,myeloid,macrophage
+TGATGCTCACCATGAC-1_D02,haematopoietic,lymphoid,T cell
+TGTCCTGCGCCGCTAG-1_D07,haematopoietic,myeloid,classical monocyte
+GTTCATATTACGTGGA-1_D06,stromal,osteolineage,osteoprogenitor
+ACCTCCGCATAACTGT-1_D12,haematopoietic,myeloid,osteoclast
+ATGGCCAGTGTGAGGC-1_D16,endothelial,endothelial,sinusoidal EC
+GTTCGCTCCTTGGGAA-1_D04,stromal,reticular (CAR),Adipo-CAR
+AGTAGCCCTATTGGGT-1_D14,haematopoietic,lymphoid,B cell
+GCCAGTTATTATCCGT-1_D07,stromal,osteolineage,osteoprogenitor
+AGCGGTGGCGGTATGA-1_D10,haematopoietic,myeloid,macrophage
+TTAACTCATGACTGAG-1_D13,haematopoietic,myeloid,classical monocyte
+ATTCCTTTGGCTATTG-1_D06,stromal,chondrocyte,chondrocyte
+GTGGGCAGGATACTCG-1_D03,haematopoietic,myeloid,neutrophil
+ACGATGCGGAACTCAT-1_D04,stromal,osteolineage,osteoprogenitor
+TTAGAAACTAATTTGT-1_D03,haematopoietic,myeloid,neutrophil
+GAGACTCCTTTTATCG-1_D14,stromal,osteolineage,osteocyte
+AGTGTTATGGCACCAT-1_D07,stromal,chondrocyte,chondrocyte
+ACCATTAGTAACCCGC-1_D14,haematopoietic,progenitor / erythroid,HSPC
+GCGGATCGTGGAATGG-1_D01,haematopoietic,myeloid,neutrophil
+CGCTCGCTAGATGTTA-1_D03,haematopoietic,lymphoid,T cell
+CTGGGAAAACATGATC-1_D13,stromal,osteolineage,osteoprogenitor
+CATAATCTTGGCGGCG-1_D14,stromal,reticular (CAR),Osteo-CAR
+TTACTATACAGTTCCT-1_D02,stromal,osteolineage,osteoprogenitor
+GTTAAAGGACATTGTC-1_D14,haematopoietic,lymphoid,T cell
+CTCACTCACACTGGTG-1_D14,doublet,doublet,doublet
+TGTAGACGTAACAAGG-1_D14,endothelial,endothelial,arterial EC
+GTGATCTCACTTTCAG-1_D07,haematopoietic,myeloid,osteoclast
+TTGCTTCTCGAGGTAT-1_D12,stromal,chondrocyte,chondrocyte
+AACTTGGCCATTGCCG-1_D11,haematopoietic,lymphoid,T cell
+GGGCCGGTTTAATCGT-1_D03,endothelial,endothelial,sinusoidal EC
+GGAGAGTCGGGTCGCC-1_D07,haematopoietic,myeloid,osteoclast
+TCCGGATATACGGCAT-1_D03,stromal,reticular (CAR),Adipo-CAR
+GTGAGCCACATACTTG-1_D07,stromal,osteolineage,osteoblast
+TGTTGGAGAATGCCGG-1_D09,endothelial,endothelial,arterial EC
+GCGATAGGCGGAAGTT-1_D13,endothelial,endothelial,sinusoidal EC
+TTAAAATAAAACGCGT-1_D02,stromal,reticular (CAR),Osteo-CAR
+AAATGTACCAGTGCGT-1_D04,haematopoietic,progenitor / erythroid,HSPC
+AGACCTCCGAGTAAAA-1_D06,haematopoietic,progenitor / erythroid,HSPC
+CAGGCCCACTGCTTTT-1_D10,haematopoietic,lymphoid,T cell
+GTGCTTCCCTTTTCTC-1_D08,haematopoietic,lymphoid,B cell
+TTGAGGGACCACACTG-1_D11,haematopoietic,myeloid,neutrophil
+GGCTATGTATTCCGCC-1_D16,stromal,reticular (CAR),Adipo-CAR
+TAACTAATTGGCCAGA-1_D13,haematopoietic,myeloid,neutrophil
+GCCCGTCGTGGGGGAA-1_D07,haematopoietic,myeloid,macrophage
+TAGACGCTTCGCGGGA-1_D06,endothelial,endothelial,arterial EC
+CAGCATTGTAAGTTTA-1_D15,endothelial,endothelial,arterial EC
+CGGTAGATCGCAGCAC-1_D11,stromal,osteolineage,osteoblast
+ATGGCTTCCGACCTTC-1_D01,haematopoietic,progenitor / erythroid,erythroid progenitor
+CCAAGCCCATGGTATC-1_D15,haematopoietic,myeloid,macrophage
+CAAATTCTCGGGTACG-1_D13,haematopoietic,lymphoid,B cell
+GTTTTAGAAGCTCCTT-1_D10,stromal,chondrocyte,chondrocyte
+CTTTCTAATGTCATGT-1_D06,haematopoietic,myeloid,neutrophil
+TCACTTCGCCGTCCAA-1_D14,stromal,reticular (CAR),Adipo-CAR
+TGTAATGATTAGCGCG-1_D15,haematopoietic,myeloid,classical monocyte
+GAAGAGCGAGCCCCAT-1_D02,haematopoietic,myeloid,classical monocyte
+ACATACTTGCGCGATA-1_D10,endothelial,endothelial,sinusoidal EC
+CAGCTGCTCTAGTACT-1_D02,haematopoietic,lymphoid,T cell
+AAATCGACGCGCGACT-1_D07,haematopoietic,progenitor / erythroid,HSPC
+AACTAGTTCAAGATAT-1_D06,haematopoietic,myeloid,classical monocyte
+CTTGCCTTGCCCACCA-1_D12,haematopoietic,lymphoid,B cell
+TGGTCCGAGCATGGCG-1_D11,stromal,reticular (CAR),Osteo-CAR
+ACCGTATGCTCAGTGT-1_D15,haematopoietic,progenitor / erythroid,HSPC
+TCGGCACCGTGGGTTA-1_D04,endothelial,endothelial,arterial EC
+CGTCTTGGCCCGCACG-1_D04,stromal,reticular (CAR),Osteo-CAR
+AAGATAAGTTCAAGCG-1_D13,haematopoietic,myeloid,osteoclast
+GAACTGAAATCGGGAT-1_D11,stromal,osteolineage,osteoprogenitor
+CCTAAACAGGGCAAAA-1_D06,haematopoietic,lymphoid,T cell
+TACATCTAGACTATTA-1_D13,haematopoietic,lymphoid,T cell
+TCTTAAGACTCCTTGG-1_D14,stromal,reticular (CAR),Osteo-CAR
+AGGAGGAAATAGTTAA-1_D02,haematopoietic,myeloid,macrophage
+TAGGTTCCGGCGGAAG-1_D11,stromal,chondrocyte,chondrocyte
+GGGGTTCAGGAAGATA-1_D10,haematopoietic,progenitor / erythroid,erythroid progenitor
+TGCTCCACCCTAAATT-1_D08,haematopoietic,myeloid,macrophage
+GCATCATTCTATAAGA-1_D16,haematopoietic,myeloid,classical monocyte
+TTGGTAATCGTGTTTG-1_D10,stromal,osteolineage,osteoblast
+AGCGGGATCGGTCCAT-1_D03,haematopoietic,progenitor / erythroid,erythroid progenitor
+TTTGACTTCGCAACTG-1_D02,haematopoietic,lymphoid,T cell
+AAGCTCGGCGTATTTG-1_D09,haematopoietic,myeloid,macrophage
+AGTTACCAGATAGCTC-1_D01,endothelial,endothelial,sinusoidal EC
+ATCAGCAGCGCCTTAG-1_D10,stromal,reticular (CAR),Osteo-CAR
+TCTCTTACTTGTCAGG-1_D06,stromal,reticular (CAR),Adipo-CAR
+GCCAGAAACAGCCGAT-1_D08,stromal,chondrocyte,chondrocyte
+GTCCCGTGTAGATGGC-1_D15,endothelial,endothelial,arterial EC
+GTCGGCCCTTCATTCA-1_D11,haematopoietic,progenitor / erythroid,erythroid progenitor
+TCTCAAGCTATCAGGT-1_D10,haematopoietic,myeloid,classical monocyte
+TTCCAATCGGATAAGG-1_D02,haematopoietic,lymphoid,T cell
+AAGAACGCTGTACTCA-1_D12,haematopoietic,lymphoid,B cell
+GAGACATAGTTCACGT-1_D15,stromal,reticular (CAR),Adipo-CAR
+ACCAGGCTGACCGTTG-1_D04,haematopoietic,myeloid,neutrophil
+AACCATCTCGTGGGTG-1_D11,haematopoietic,lymphoid,B cell
+ATCAATGACGCGGGGT-1_D08,stromal,chondrocyte,chondrocyte
+ACATCGATGTATAGGC-1_D04,stromal,osteolineage,osteocyte
+CGAATCATTACTCTCA-1_D11,haematopoietic,myeloid,classical monocyte
+AACGACTCAAGACTGT-1_D13,stromal,reticular (CAR),Adipo-CAR
+TATGTTTAGATTCTGC-1_D14,haematopoietic,myeloid,macrophage
+CGTACTCTCGTCTTCA-1_D13,stromal,osteolineage,osteoprogenitor
+GTCGGACCACGAGAGG-1_D06,stromal,chondrocyte,chondrocyte
+GCCTTGGGACGGCCTT-1_D05,haematopoietic,lymphoid,T cell
+TTCAAGATAAATCCAA-1_D10,stromal,osteolineage,osteoblast
+TGGCAGTACTAATAAA-1_D11,haematopoietic,myeloid,macrophage
+GCATATCGTACGGCTA-1_D14,haematopoietic,myeloid,osteoclast
+GTTGCACAGTCTGATA-1_D07,haematopoietic,myeloid,osteoclast
+AGTCTCTCAGTTTAGG-1_D04,stromal,reticular (CAR),Adipo-CAR
+TGCGCAGCGTAGCAAA-1_D04,haematopoietic,progenitor / erythroid,HSPC
+AAAAGCCATGCGTCTA-1_D14,endothelial,endothelial,arterial EC
+CCGTTAATTAGCGGGG-1_D08,haematopoietic,lymphoid,T cell
+GTGCTGACTCGCCCGT-1_D01,haematopoietic,lymphoid,T cell
+AGATCCACGGTCCTTC-1_D07,stromal,osteolineage,osteoblast
+CAGTATGTCCTTATAG-1_D11,haematopoietic,myeloid,osteoclast
+GTACATTCCTTGTTGA-1_D15,stromal,reticular (CAR),Adipo-CAR
+GTCCTACTGTCCAAAA-1_D14,stromal,chondrocyte,chondrocyte
+GAAAGCTGCCTTGAGA-1_D11,stromal,osteolineage,osteoprogenitor
+CCCACTTCGGCTCGGC-1_D03,stromal,osteolineage,osteoblast
+AAGTTCTGTTGAGGAT-1_D06,stromal,reticular (CAR),Adipo-CAR
+CCCAGACTTGCAAGAA-1_D02,stromal,reticular (CAR),Osteo-CAR
+GTGCATGCGTCTTTAG-1_D07,stromal,chondrocyte,chondrocyte
+TACGCTTTGGTAAAAC-1_D02,stromal,reticular (CAR),Osteo-CAR
+GTGAAAGATCTCCAAA-1_D15,stromal,reticular (CAR),Adipo-CAR
+GCATAGCCCCCATCCG-1_D11,stromal,reticular (CAR),Osteo-CAR
+GTATGAGCCGGCTCTC-1_D09,haematopoietic,myeloid,macrophage
+CCCACCCGATCGGGAT-1_D06,endothelial,endothelial,sinusoidal EC
+AGCGACGAATAATATC-1_D02,stromal,reticular (CAR),Adipo-CAR
+TTCGAACTAGATTCCT-1_D08,haematopoietic,progenitor / erythroid,HSPC
+AATCTTCCGCTTGCCC-1_D03,haematopoietic,myeloid,neutrophil
+GAGCGCGTCAGTTGAA-1_D05,haematopoietic,myeloid,neutrophil
+CCCAGTTACGTGGTAA-1_D16,haematopoietic,progenitor / erythroid,HSPC
+GGCCCACATCTTGTTA-1_D11,haematopoietic,myeloid,neutrophil
+AAAGACTCGTACAACT-1_D05,stromal,reticular (CAR),Osteo-CAR
+AAGTGCGCATGCACAT-1_D02,stromal,osteolineage,osteoprogenitor
+TCAGACAGGTCGGCAC-1_D02,haematopoietic,lymphoid,T cell
+GCCCAGGAAGTTGCGA-1_D13,stromal,osteolineage,osteoprogenitor
+GATGACCCGTATTTCC-1_D11,endothelial,endothelial,sinusoidal EC
+TTTTATTTAACATTTA-1_D11,endothelial,endothelial,arterial EC
+CGAAGGCTGTGGTTAA-1_D08,endothelial,endothelial,sinusoidal EC
+CTGACTCTCGTGAGCG-1_D12,haematopoietic,myeloid,macrophage
+CACTTACATGCACTTT-1_D09,stromal,reticular (CAR),Adipo-CAR
+GTGGTTCCCTGCACCA-1_D08,doublet,doublet,doublet
+CAATGAAGCAGCCTAG-1_D07,haematopoietic,lymphoid,T cell
+AGTTCCACTGCCAATA-1_D14,haematopoietic,myeloid,neutrophil
+CGACCTAAATATCAGC-1_D16,haematopoietic,myeloid,neutrophil
+ATTAACCTGAGCACTA-1_D11,endothelial,endothelial,sinusoidal EC
+AGGCAGGCATCGGGGA-1_D04,haematopoietic,lymphoid,B cell
+TCCGACTTGCCAGTAT-1_D05,stromal,reticular (CAR),Osteo-CAR
+AGCCAGTCGACGCCGT-1_D06,haematopoietic,myeloid,neutrophil
+GTTTACTGTTGGCTGA-1_D13,haematopoietic,lymphoid,B cell
+CATTCATTGTTCACAC-1_D15,stromal,reticular (CAR),Adipo-CAR
+GACTAAATCCTTGTGA-1_D11,haematopoietic,myeloid,neutrophil
+TTCACCTAAGAATAAT-1_D15,haematopoietic,myeloid,neutrophil
+TTCTACTTGCATCCCA-1_D14,haematopoietic,myeloid,classical monocyte
+CCATCTTCCTTCACGC-1_D01,stromal,reticular (CAR),Adipo-CAR
+ACACCCAGTTCAAACA-1_D15,haematopoietic,myeloid,macrophage
+GGAGACGCTACTTTTC-1_D06,haematopoietic,lymphoid,B cell
+GGTCAAGGATCTTGGC-1_D11,stromal,osteolineage,osteoprogenitor
+TACTAATGCTACATTC-1_D15,haematopoietic,myeloid,osteoclast
+GCATGGATCTAATGCC-1_D06,haematopoietic,myeloid,classical monocyte
+GGCCAGTCAGGCTAAC-1_D12,haematopoietic,myeloid,macrophage
+ACGACTTTGCGGGTCT-1_D15,haematopoietic,lymphoid,T cell
+GTGGCACTACCCGGCG-1_D07,haematopoietic,myeloid,classical monocyte
+TTTTTCTTGCAGCCGA-1_D14,haematopoietic,lymphoid,B cell
+ACCGCGCACGTATCTC-1_D15,haematopoietic,myeloid,classical monocyte
+TACTCGTTGGCCAGCC-1_D08,endothelial,endothelial,arterial EC
+CCTTACGCTGCAGAAA-1_D10,stromal,reticular (CAR),Osteo-CAR
+TGTTCCTCCATGGTAA-1_D07,haematopoietic,lymphoid,T cell
+CATACCTCCGTAAGCG-1_D01,haematopoietic,lymphoid,T cell
+CGCTTCATCGGGCCGA-1_D13,haematopoietic,myeloid,macrophage
+CATCGTTGCCGAATCG-1_D03,stromal,osteolineage,osteoblast
+GGGCCCTTCTCCACCG-1_D14,haematopoietic,progenitor / erythroid,HSPC
+CCGACCAGTTAACCGG-1_D09,stromal,osteolineage,osteoprogenitor
+GCTCACGCCGGTATCG-1_D05,haematopoietic,myeloid,classical monocyte
+CCGCTGTGTCACCGTA-1_D08,haematopoietic,myeloid,neutrophil
+TACTGTGGATAGTGGA-1_D15,haematopoietic,myeloid,neutrophil
+GCTTTCACCAAAAGTG-1_D16,haematopoietic,lymphoid,B cell
+GAAGTGGGCGATTTGT-1_D02,endothelial,endothelial,arterial EC
+GCGTTCGGCCAGCAAC-1_D06,endothelial,endothelial,arterial EC
+GTAACAACCCTACGGC-1_D13,endothelial,endothelial,sinusoidal EC
+ATCGGCACCTTCATTA-1_D16,haematopoietic,lymphoid,T cell
+TCCTTTTAGCAACACC-1_D04,haematopoietic,lymphoid,B cell
+GTTAGCAGAGCTTGTA-1_D15,haematopoietic,myeloid,osteoclast
+ACCGAACAAAACGGGA-1_D02,haematopoietic,myeloid,classical monocyte
+TTGCCATTAATCTTTG-1_D16,stromal,osteolineage,osteoblast
+GTCCGGGTCGTATATC-1_D02,endothelial,endothelial,arterial EC
+ATGGAGAAATGCCCCC-1_D11,stromal,osteolineage,osteoblast
+CTCGAACGATCTATGA-1_D02,haematopoietic,myeloid,classical monocyte
+GTCCAGGACCACCCTT-1_D15,haematopoietic,myeloid,classical monocyte
+TAAGCACTAATTCCTT-1_D04,haematopoietic,progenitor / erythroid,erythroid progenitor
+ACTGCTGTCAGGTGAT-1_D07,haematopoietic,myeloid,classical monocyte
+CAGTTAGGTGGAGTCA-1_D14,haematopoietic,lymphoid,B cell
+CGCCTTACTTGCAAAA-1_D05,stromal,osteolineage,osteoprogenitor
+GTGTGTCACATGGTAA-1_D10,haematopoietic,myeloid,macrophage
+ATCGATGCCCTGACGG-1_D11,haematopoietic,myeloid,classical monocyte
+ACGGCCCAGAAGAGAG-1_D05,stromal,reticular (CAR),Adipo-CAR
+TTATTCATGTTACGAG-1_D08,endothelial,endothelial,sinusoidal EC
+AGTAGAGGTTCATTAT-1_D12,stromal,osteolineage,osteocyte
+GGAGATCCAACGATAC-1_D14,stromal,osteolineage,osteoprogenitor
+CAATAAATACACCGTT-1_D10,endothelial,endothelial,sinusoidal EC
+CCCCTCGCGAGCGCTC-1_D10,stromal,osteolineage,osteoblast
+AGTCGTGCCTCTTAAC-1_D13,haematopoietic,progenitor / erythroid,erythroid progenitor
+GCTAAAAGAATCCGCA-1_D16,haematopoietic,myeloid,classical monocyte
+ATGCGCTTAAACAGCT-1_D14,endothelial,endothelial,arterial EC
+AAGCCCGATGATATGG-1_D04,haematopoietic,lymphoid,B cell
+GGCGCCCAGAATTCCT-1_D10,haematopoietic,progenitor / erythroid,erythroid progenitor
+CTTACGACTTAGAAGA-1_D09,haematopoietic,myeloid,classical monocyte
+TGGTGGGCTCGTTCGT-1_D10,haematopoietic,myeloid,macrophage
+AACCTCTCCCGAGAAC-1_D11,endothelial,endothelial,sinusoidal EC
+TCGCTACAATCAGGGG-1_D15,stromal,osteolineage,osteoblast
+ATCCCCGCGACTCTCT-1_D14,haematopoietic,progenitor / erythroid,erythroid progenitor
+TTAGTCGGGCCCTCCA-1_D10,stromal,chondrocyte,chondrocyte
+CTTGCAAGATAACTTG-1_D05,haematopoietic,myeloid,neutrophil
+GCGCTGGGTGCGACCA-1_D12,haematopoietic,myeloid,classical monocyte
+CCACAACCATATGTCA-1_D16,haematopoietic,myeloid,classical monocyte
+CTAAGTGAAGCCAGGT-1_D02,haematopoietic,myeloid,osteoclast
+AAATAGTCCGCGGACT-1_D11,haematopoietic,myeloid,classical monocyte
+GTGTCAGCATAATGCA-1_D14,endothelial,endothelial,arterial EC
+GCTATAAGGGGGACTT-1_D11,haematopoietic,myeloid,neutrophil
+TGCAGTGAGTGGATAC-1_D13,stromal,reticular (CAR),Osteo-CAR
+GGGGGTCGTGCCATTT-1_D15,haematopoietic,lymphoid,B cell
+GCCTGTGATAATTTTC-1_D11,haematopoietic,myeloid,macrophage
+GACTGCATAACCACGA-1_D11,stromal,osteolineage,osteoblast
+TAGAGAATTGTCAATC-1_D13,haematopoietic,progenitor / erythroid,erythroid progenitor
+ATGCCGCGGGCCTTAT-1_D04,doublet,doublet,doublet
+TAATCGTTCAATGGGT-1_D01,stromal,reticular (CAR),Adipo-CAR
+GTAATGTTGTCAACAA-1_D14,doublet,doublet,doublet
+TCAATTAGCCAGTTGC-1_D08,haematopoietic,lymphoid,T cell
+TCCGCCGTCGCGTCTA-1_D04,stromal,osteolineage,osteoblast
+ATGGGTGCGGAGCACC-1_D14,stromal,osteolineage,osteoprogenitor
+GTGAACTCGCGTGCAT-1_D09,haematopoietic,lymphoid,T cell
+CGTTTGGGCGCACTCG-1_D06,stromal,osteolineage,osteoblast
+CGGCGACAGAGGGTTC-1_D16,haematopoietic,progenitor / erythroid,erythroid progenitor
+GCCGAGAACGTACTTC-1_D07,stromal,reticular (CAR),Adipo-CAR
+GTCGCCCTGCTGTTCA-1_D01,stromal,reticular (CAR),Osteo-CAR
+GGTGTACACCTGCGAA-1_D12,stromal,chondrocyte,chondrocyte
+GAAGCATGGTTTAACT-1_D13,haematopoietic,myeloid,neutrophil
+AGGTTAACTTAAACGC-1_D02,haematopoietic,myeloid,classical monocyte
+ATGGAGAGCGTGACAT-1_D10,endothelial,endothelial,sinusoidal EC
+AAAGACGGCGGAGTAC-1_D02,endothelial,endothelial,arterial EC
+GGATGGACGTGTGTCC-1_D12,haematopoietic,myeloid,osteoclast
+CCGGCGGAGTCGTCGG-1_D16,haematopoietic,lymphoid,B cell
+ATTGGCGATTAACTGG-1_D14,haematopoietic,myeloid,classical monocyte
+ATCGATTATGTTCAGG-1_D05,stromal,osteolineage,osteoblast
+TCTGTATTGTTTTCGG-1_D07,endothelial,endothelial,arterial EC
+CAAATCCTGTCGCCAT-1_D01,haematopoietic,lymphoid,T cell
+AGCCGGTACCGTTCAA-1_D09,haematopoietic,progenitor / erythroid,erythroid progenitor
+GGCAACGACCTTCTGT-1_D01,haematopoietic,myeloid,macrophage
+ACTCGAACCTTCGTTC-1_D04,haematopoietic,myeloid,neutrophil
+CAGCTGGGGTAGGATG-1_D10,stromal,reticular (CAR),Adipo-CAR
+ACGGTATTTCGAACAG-1_D02,haematopoietic,progenitor / erythroid,HSPC
+CTTAGGTATCTCTTAG-1_D14,haematopoietic,myeloid,classical monocyte
+TCGAGCAGCCCTTGGG-1_D03,stromal,reticular (CAR),Osteo-CAR
+ATTCTCTAGAAAGGCC-1_D16,endothelial,endothelial,arterial EC
+GTATCACCCAGCCCCA-1_D08,stromal,reticular (CAR),Osteo-CAR
+GTATTGTGAAGAAAGG-1_D01,stromal,osteolineage,osteoblast
+GCGGAGGGTATGGATT-1_D10,haematopoietic,myeloid,classical monocyte
+TGGCGTTAACATGTAC-1_D10,doublet,doublet,doublet
+GATGCGACAGGCGAAG-1_D16,haematopoietic,progenitor / erythroid,erythroid progenitor
+CGGCCAGTCGCCGAGC-1_D10,haematopoietic,progenitor / erythroid,HSPC
+ATAGCAAAAACAGTGC-1_D07,haematopoietic,myeloid,osteoclast
+CAGGGCAGGGCTCCAC-1_D14,endothelial,endothelial,arterial EC
+GATCGGATTTTAAGGC-1_D16,endothelial,endothelial,arterial EC
+GACCCCAATATGACAA-1_D12,stromal,osteolineage,osteoprogenitor
+GACCTGCTGGAGTAAG-1_D03,haematopoietic,progenitor / erythroid,HSPC
+CTTGGCGCATTTACCT-1_D04,haematopoietic,lymphoid,B cell
+AGTACCCGAATATATG-1_D05,stromal,chondrocyte,chondrocyte
+GGTCCCACGAGATACA-1_D14,haematopoietic,progenitor / erythroid,erythroid progenitor
+CCGTGATGTCAAGTCG-1_D03,endothelial,endothelial,sinusoidal EC
+ATCTCACTTTCGCCCC-1_D03,stromal,chondrocyte,chondrocyte
+CAATGATTTGCAGACA-1_D07,haematopoietic,myeloid,classical monocyte
+GCCGTGAATTGCCTAA-1_D06,stromal,osteolineage,osteocyte
+TTAGAAGGGCATCGCT-1_D08,stromal,osteolineage,osteocyte
+TGGTCGGGTATCACTG-1_D06,haematopoietic,lymphoid,T cell
+TTAAAAAACGAGCCAC-1_D12,stromal,osteolineage,osteoblast
+GCCGTGGCACTAGGCG-1_D07,stromal,reticular (CAR),Osteo-CAR
+TTCAAATTTGTTCAAC-1_D11,stromal,osteolineage,osteoblast
+AGACGTCGCGGCCCTC-1_D16,haematopoietic,lymphoid,B cell
+GCTATGTTCTATGCAA-1_D05,haematopoietic,myeloid,osteoclast
+GTCCAATGCTCTGACT-1_D16,endothelial,endothelial,arterial EC
+CCGTGTATCCAGTGGT-1_D07,haematopoietic,lymphoid,T cell
+TTGAAGACTGACCTGA-1_D06,haematopoietic,lymphoid,B cell
+TGTTAACAGCCCACTT-1_D01,haematopoietic,lymphoid,T cell
+TGGCGTCGGCCATCCA-1_D11,haematopoietic,myeloid,neutrophil
+TCTGGCGAACTCAGTT-1_D09,haematopoietic,myeloid,macrophage
+CGTGGTAATAATGTCA-1_D02,haematopoietic,myeloid,classical monocyte
+AACAACCCCGCCGGCT-1_D10,stromal,reticular (CAR),Osteo-CAR
+TCACACGCCTATCGAG-1_D01,stromal,reticular (CAR),Adipo-CAR
+GATACTCTCTCAGCCT-1_D07,haematopoietic,lymphoid,T cell
+GAACCACTCCTGCCGT-1_D06,endothelial,endothelial,sinusoidal EC
+GGAATGAAGATTTAGG-1_D11,haematopoietic,myeloid,neutrophil
+TGATGGATTTTGTCAT-1_D15,stromal,osteolineage,osteoblast
+CCCCTCGGTCCCAGTG-1_D11,haematopoietic,lymphoid,T cell
+AACGTCCGCTCCGCTA-1_D13,haematopoietic,lymphoid,T cell
+TGTTTAGAACTTGCAT-1_D02,endothelial,endothelial,sinusoidal EC
+GTCATATCATGGACTG-1_D10,haematopoietic,myeloid,neutrophil
+TTACGTCGGCAAACCC-1_D12,stromal,reticular (CAR),Adipo-CAR
+AGGAGTACCGCGTACA-1_D08,haematopoietic,myeloid,classical monocyte
+ACGCGACGGTTGCATA-1_D10,stromal,chondrocyte,chondrocyte
+GACTCGTCTACAATGG-1_D09,haematopoietic,progenitor / erythroid,HSPC
+TCGCTCAAGATGGGCT-1_D11,haematopoietic,progenitor / erythroid,HSPC
+ATGAGACGTGACACCA-1_D07,stromal,reticular (CAR),Adipo-CAR
+ATCCGCGTTCCCGCCC-1_D08,endothelial,endothelial,sinusoidal EC
+ATGTAGGTCTCCGGGG-1_D05,stromal,reticular (CAR),Osteo-CAR
+GGGGGGGGCGTGGGTT-1_D16,haematopoietic,lymphoid,T cell
+GGTAATCCCGAAGTGA-1_D11,haematopoietic,myeloid,neutrophil
+AGGTGCAAACTTCCCG-1_D05,endothelial,endothelial,sinusoidal EC
+TTCAAGGTACAGGACG-1_D10,endothelial,endothelial,sinusoidal EC
+TGCTCTGTTCCGGCTA-1_D02,doublet,doublet,doublet
+GAGCATTTTCGTAGCG-1_D12,stromal,chondrocyte,chondrocyte
+CACAACCTAAATTTAG-1_D12,stromal,reticular (CAR),Adipo-CAR
+TATCGTGGTAGCACTG-1_D02,haematopoietic,progenitor / erythroid,erythroid progenitor
+CAATTCGATTCATACA-1_D15,endothelial,endothelial,sinusoidal EC
+ACGACCGTCTCTTACC-1_D11,endothelial,endothelial,sinusoidal EC
+TGGTCGAGGCACAATA-1_D11,haematopoietic,myeloid,neutrophil
+TTTGGCTCAGTCACCC-1_D07,stromal,reticular (CAR),Adipo-CAR
+TGTCCGTCCTTAACTC-1_D14,endothelial,endothelial,arterial EC
+CCCTACAAAATGTCCC-1_D03,haematopoietic,myeloid,macrophage
+GAGGTCGTACAGAGGA-1_D06,haematopoietic,myeloid,classical monocyte
+AGGGTGGGCTGTTATC-1_D14,haematopoietic,myeloid,classical monocyte
+TCCCGGGAAGGCCAAA-1_D14,haematopoietic,lymphoid,T cell
+GAAAGGCCAGGTCAAG-1_D12,stromal,reticular (CAR),Osteo-CAR
+GCAATATATTTCTAGG-1_D02,stromal,reticular (CAR),Adipo-CAR
+TGAGGGAATGCAACCC-1_D08,haematopoietic,lymphoid,T cell
+ATGCCGGCAAGTACTA-1_D02,haematopoietic,lymphoid,T cell
+TATATCCATTATGAGT-1_D15,haematopoietic,progenitor / erythroid,erythroid progenitor
+AACTTTAAGGCCTGCG-1_D12,stromal,osteolineage,osteoprogenitor
+TTGAAGGTCTAGGGCC-1_D16,haematopoietic,myeloid,neutrophil
+CGCTCCACCTTCGCAG-1_D07,stromal,osteolineage,osteoprogenitor
+CAGACCCAGAAGTGTC-1_D11,endothelial,endothelial,arterial EC
+TAGCCGCGCAATCCAT-1_D05,haematopoietic,lymphoid,T cell
+AATCTTTGCCTTGGCC-1_D11,haematopoietic,progenitor / erythroid,HSPC
+TCGTGTCGATTAGCCG-1_D07,doublet,doublet,doublet
+CGTCAAGACTTTCTCG-1_D04,haematopoietic,myeloid,classical monocyte
+GTCGATCCAGGAAACT-1_D12,stromal,chondrocyte,chondrocyte
+CGAATTTATGTTCATA-1_D15,haematopoietic,myeloid,classical monocyte
+CCGGCTTCTTCTATCG-1_D15,haematopoietic,myeloid,classical monocyte
+GAGCGAGAGGGGCCCA-1_D03,haematopoietic,lymphoid,T cell
+TCCGTTACCACAGGAG-1_D01,stromal,reticular (CAR),Osteo-CAR
+TGCTGATATCAGTAGT-1_D02,haematopoietic,lymphoid,B cell
+AAGAGGAGTGAGAGTA-1_D04,haematopoietic,myeloid,classical monocyte
+ACCAGTTTCAGTATAC-1_D16,haematopoietic,lymphoid,T cell
+TCCAAGCGAACTTTTA-1_D08,endothelial,endothelial,arterial EC
+AGCATCCTCAACCGGC-1_D09,endothelial,endothelial,sinusoidal EC
+AAATCATACCTGCTTA-1_D04,haematopoietic,myeloid,classical monocyte
+GCTGAGATGACGGTGT-1_D14,endothelial,endothelial,arterial EC
+ACGATTCGTAGGCCTT-1_D12,haematopoietic,myeloid,neutrophil
+GTTTGACGTCTGATTT-1_D02,stromal,reticular (CAR),Osteo-CAR
+TCAGATCTGCTTCTCC-1_D09,haematopoietic,myeloid,neutrophil
+GTCGAATATCGGGTCT-1_D04,endothelial,endothelial,sinusoidal EC
+TTTGAAGGCATCGCTC-1_D08,stromal,chondrocyte,chondrocyte
+TGCAAACCCGCGGGTG-1_D06,stromal,osteolineage,osteoblast
+GCTTGAATGCAGGAAA-1_D13,endothelial,endothelial,arterial EC
+GACCGACGTTCTTGTG-1_D12,haematopoietic,myeloid,neutrophil
+AGTACCGATCTTCTAT-1_D11,stromal,reticular (CAR),Adipo-CAR
+GCCAGAGTCCACCCGG-1_D09,haematopoietic,myeloid,osteoclast
+CGTCAGAAGCCCTAAT-1_D10,stromal,osteolineage,osteocyte
+GACTAGGTTCGCCCGA-1_D01,endothelial,endothelial,sinusoidal EC
+GTTATCGCACACACCG-1_D04,haematopoietic,lymphoid,B cell
+TAGCACTACAGGGGTA-1_D10,stromal,osteolineage,osteoblast
+CCCATGACAGGCTCAG-1_D10,stromal,osteolineage,osteoprogenitor
+CGCCACGAGTTAGTTA-1_D03,haematopoietic,myeloid,classical monocyte
+AGATACGGAGGTGTCC-1_D16,stromal,osteolineage,osteoprogenitor
+ACCTGCGCTTATATAG-1_D14,haematopoietic,lymphoid,B cell
+TTCTGACTCGGTTCAC-1_D13,haematopoietic,myeloid,classical monocyte
+GGTCGCCAGCAATTAT-1_D01,haematopoietic,myeloid,neutrophil
+TTTACGTCGGCCGATC-1_D06,stromal,osteolineage,osteoblast
+TAGTCACGACGGGACA-1_D01,haematopoietic,lymphoid,T cell
+CTTTCCCGACTAACAC-1_D12,haematopoietic,myeloid,classical monocyte
+ATCAGTGCTCGGTCCG-1_D15,stromal,reticular (CAR),Adipo-CAR
+TACACGCGCACCCAGT-1_D06,stromal,osteolineage,osteoprogenitor
+TTTTTTGACCTCTTTA-1_D16,stromal,chondrocyte,chondrocyte
+AGACGGAGGAGTTAGC-1_D16,haematopoietic,myeloid,neutrophil
+GGCTGTTAGTCTCAGA-1_D11,haematopoietic,myeloid,neutrophil
+TTACACACCCTGTCAG-1_D02,stromal,osteolineage,osteoblast
+TTCCACCAAACACATC-1_D10,haematopoietic,lymphoid,T cell
+GATGGCATGTCCGGGG-1_D13,stromal,osteolineage,osteoprogenitor
+TTTAGCTTCACTTTCT-1_D06,stromal,reticular (CAR),Adipo-CAR
+ACGACTTCGCGTTCAG-1_D05,haematopoietic,myeloid,neutrophil
+CGATGATAGTCAGCAG-1_D07,haematopoietic,lymphoid,T cell
+ATGGTGGCACGGCGCG-1_D08,haematopoietic,myeloid,macrophage
+TTACAAGTCACATGAA-1_D03,haematopoietic,myeloid,neutrophil
+AATACTCGGCTCAATT-1_D02,doublet,doublet,doublet
+TTGTTGAGTGCAAGGG-1_D15,haematopoietic,myeloid,macrophage
+GCATGACCTTGTAGCC-1_D11,stromal,reticular (CAR),Adipo-CAR
+AACGCCGCGGCGACGT-1_D11,haematopoietic,progenitor / erythroid,erythroid progenitor
+CTCCCACGTATCTTAG-1_D01,endothelial,endothelial,sinusoidal EC
+TCTAGAGACGTATGCA-1_D15,stromal,chondrocyte,chondrocyte
+GAAAACGTAATATACG-1_D02,endothelial,endothelial,sinusoidal EC
+CTTTAAGGTCGAATCG-1_D06,haematopoietic,lymphoid,B cell
+TACCTTTCCATGATTA-1_D03,haematopoietic,myeloid,classical monocyte
+AAGTCATCGTAAGTAC-1_D10,stromal,reticular (CAR),Adipo-CAR
+TTCCTCTGTTGCGTTG-1_D15,stromal,chondrocyte,chondrocyte
+GGTAACAAATTTTATG-1_D02,stromal,osteolineage,osteoprogenitor
+CGAAAACGGCATACCT-1_D15,haematopoietic,myeloid,neutrophil
+TATAATGAGAGAGTTG-1_D08,endothelial,endothelial,sinusoidal EC
+TGGGCCCTGATATCGC-1_D16,endothelial,endothelial,sinusoidal EC
+TGGAAAACAGTTCCTG-1_D03,stromal,reticular (CAR),Adipo-CAR
+TGCATCATGCGTATCG-1_D13,stromal,reticular (CAR),Adipo-CAR
+ACTGGCGTGACGGAGT-1_D03,haematopoietic,progenitor / erythroid,erythroid progenitor
+AGAAGGATATCCTAAA-1_D07,stromal,osteolineage,osteocyte
+AGAAAAACTGGGCAAC-1_D03,haematopoietic,myeloid,osteoclast
+CTAGCAGAAGCCATGT-1_D08,haematopoietic,progenitor / erythroid,erythroid progenitor
+GGTGTATCACTATTAT-1_D07,haematopoietic,lymphoid,B cell
+TGACTGGTCATCATCA-1_D05,haematopoietic,myeloid,classical monocyte
+CCTACGGAAGAGGCTT-1_D03,endothelial,endothelial,arterial EC
+ACATAAGTCGGTTCTT-1_D09,haematopoietic,myeloid,neutrophil
+GTCACAAGTGCACGTC-1_D15,doublet,doublet,doublet
+GTGACTGGCGGACGGG-1_D04,haematopoietic,progenitor / erythroid,erythroid progenitor
+CCCGCTCCCTCACCAG-1_D04,haematopoietic,myeloid,neutrophil
+CTTCAAGTACATATGC-1_D01,haematopoietic,lymphoid,B cell
+TAGGATACAGTCGTTC-1_D14,haematopoietic,progenitor / erythroid,erythroid progenitor
+TCGTCCCGTTTTTCAC-1_D01,stromal,reticular (CAR),Adipo-CAR
+GCTGAAGTGTAATCTT-1_D10,stromal,osteolineage,osteoblast
+TTTTGCGAATCCCGAA-1_D10,haematopoietic,lymphoid,T cell
+CGATTTTTGGCTTGCG-1_D06,stromal,reticular (CAR),Adipo-CAR
+AACGAATGTCCGACCC-1_D11,haematopoietic,lymphoid,B cell
+CGCGCGGTAACATAGA-1_D16,stromal,reticular (CAR),Adipo-CAR
+AACCCGGGACATGAGA-1_D08,stromal,reticular (CAR),Adipo-CAR
+GCACATGACTTCCTAG-1_D11,haematopoietic,lymphoid,T cell
+CCCCGGCTCTACGGTC-1_D13,stromal,osteolineage,osteoblast
+GCATGCGTGCCAACTA-1_D07,haematopoietic,myeloid,osteoclast
+AAGGCTCCTGTGAATG-1_D04,haematopoietic,myeloid,neutrophil
+ACCGACATTGACAGCC-1_D02,haematopoietic,myeloid,neutrophil
+GACAACGCTATAGCTG-1_D15,haematopoietic,myeloid,osteoclast
+TGCCCCTCACTTCTCT-1_D03,haematopoietic,myeloid,neutrophil
+CGACCTCTTTCTGGAG-1_D07,haematopoietic,myeloid,neutrophil
+CTGCGCCGAAATTTCC-1_D05,haematopoietic,myeloid,osteoclast
+CAGCATACTAGGGACA-1_D11,haematopoietic,myeloid,classical monocyte
+GTAGTTGGTGACCTTT-1_D12,haematopoietic,progenitor / erythroid,HSPC
+ACTGAAGCGTGACCCT-1_D02,stromal,osteolineage,osteoprogenitor
+GACTATCTCCGTTCTC-1_D16,haematopoietic,myeloid,neutrophil
+TTGCCGTCACAAGAAG-1_D13,stromal,osteolineage,osteoprogenitor
+GGACTCGTACTGCGCA-1_D01,haematopoietic,myeloid,osteoclast
+GGGTCACAAATCCAAT-1_D05,haematopoietic,lymphoid,B cell
+TTTGGGCCTATTGAAT-1_D03,haematopoietic,myeloid,classical monocyte
+ATGTAAGGTCAAGTTG-1_D07,haematopoietic,myeloid,classical monocyte
+GATACACTTCAGTGGC-1_D14,haematopoietic,lymphoid,T cell
+GTATACTCTTAACACA-1_D01,stromal,osteolineage,osteoblast
+TCGCCGGCACGGTGTT-1_D06,haematopoietic,myeloid,neutrophil
+TCAGTCGGGAATGGCT-1_D03,haematopoietic,myeloid,classical monocyte
+CACGCGACGCTGCTCG-1_D14,haematopoietic,myeloid,classical monocyte
+ACAATGCCACAAATAC-1_D03,endothelial,endothelial,arterial EC
+TAAGCTACCTATGCTC-1_D11,haematopoietic,myeloid,classical monocyte
+GGACAGTATGCAGTCT-1_D14,haematopoietic,myeloid,neutrophil
+TAGCCCGTTCTCAGAG-1_D10,stromal,osteolineage,osteoblast
+AGTAATATGTCGGAGA-1_D02,stromal,reticular (CAR),Osteo-CAR
+GCCGTCAGCGATTAAG-1_D06,endothelial,endothelial,sinusoidal EC
+CTAGCATTAAGGCTCT-1_D16,haematopoietic,myeloid,neutrophil
+CATGTCGTTCGCACCC-1_D11,haematopoietic,lymphoid,T cell
+CTACCATAGTTAAAAG-1_D10,stromal,reticular (CAR),Adipo-CAR
+AATTTGCAGTAGTATT-1_D10,haematopoietic,lymphoid,B cell
+CAGATACGACCTTGCC-1_D04,haematopoietic,myeloid,neutrophil
+ACATGTTGATTTCCAC-1_D10,endothelial,endothelial,arterial EC
+CACAGGCAGTCCATCG-1_D03,haematopoietic,myeloid,neutrophil
+CCTATAAGGACGCCAG-1_D13,endothelial,endothelial,sinusoidal EC
+CGGCCTCTTATCGCAC-1_D07,endothelial,endothelial,sinusoidal EC
+AGTGTCCCTGAGGGTG-1_D05,haematopoietic,myeloid,osteoclast
+AACCGCTCTATTTGAC-1_D13,endothelial,endothelial,arterial EC
+CTACCGTTTGATATCG-1_D10,stromal,reticular (CAR),Osteo-CAR
+TGTGACAACTTCCTGC-1_D06,haematopoietic,lymphoid,T cell
+GTGGAATGGCCCCGCC-1_D12,haematopoietic,progenitor / erythroid,erythroid progenitor
+AACTAGCGAGTGCTCG-1_D01,stromal,reticular (CAR),Osteo-CAR
+TGTTTGTACAAAAAGA-1_D14,haematopoietic,myeloid,neutrophil
+CTCGGACTCCTTAATG-1_D02,haematopoietic,lymphoid,T cell
+CCAAGGAGTAACGTCA-1_D13,haematopoietic,myeloid,neutrophil
+ACCATGTCAGTCGCTG-1_D08,haematopoietic,progenitor / erythroid,erythroid progenitor
+GATCAATGACGCCTAG-1_D08,haematopoietic,lymphoid,T cell
+CTACTATAGCAAGTCC-1_D01,endothelial,endothelial,arterial EC
+GCTGAAGAGGGGTTGA-1_D02,haematopoietic,lymphoid,B cell
+ACCCTATAGGCAGGTG-1_D07,endothelial,endothelial,arterial EC
+CCCGGTATAGATAGGG-1_D06,haematopoietic,myeloid,macrophage
+CATGCGTCGGGCTCTA-1_D08,haematopoietic,lymphoid,T cell
+CACCGCCAGAGTCTGC-1_D04,endothelial,endothelial,sinusoidal EC
+CGATCTGAACGCCATG-1_D03,haematopoietic,myeloid,osteoclast
+TCCCTGCGCAGTTAAT-1_D01,haematopoietic,myeloid,classical monocyte
+AAGGATTCGAGCTATC-1_D11,haematopoietic,lymphoid,T cell
+GAATGCGTCGAGACCT-1_D16,endothelial,endothelial,sinusoidal EC
+TGTTAAATGGGCATAT-1_D04,stromal,reticular (CAR),Adipo-CAR
+ATCTCTTGATTAGTCA-1_D11,stromal,chondrocyte,chondrocyte
+AGCAGTTGGACAGTGA-1_D02,doublet,doublet,doublet
+AGGTCCTCGAAACTTG-1_D15,haematopoietic,myeloid,macrophage
+AATGCGATCAGAACCC-1_D15,doublet,doublet,doublet
+CCCCTATATCAAACAG-1_D06,haematopoietic,myeloid,classical monocyte
+GAATGCCCCGAACTAA-1_D01,stromal,reticular (CAR),Adipo-CAR
+AGCAGTACACGGATGC-1_D10,haematopoietic,lymphoid,T cell
+CCTCGTCAGTCATCCC-1_D05,stromal,reticular (CAR),Adipo-CAR
+TTGTCAGTATTGTGGT-1_D15,haematopoietic,lymphoid,T cell
+ATAAGGTAATTGCCGT-1_D10,stromal,reticular (CAR),Osteo-CAR
+CTCAATTTTCTACCTC-1_D09,haematopoietic,lymphoid,T cell
+CACCAAGGAATATCGA-1_D15,stromal,osteolineage,osteoblast
+CCTACCTCGAGGACTA-1_D13,haematopoietic,myeloid,macrophage
+GGCTCCAATCCCTGCA-1_D15,haematopoietic,myeloid,macrophage
+GCTGCGTCATACCTCT-1_D05,haematopoietic,myeloid,neutrophil
+GACTCGGATGGGCGGC-1_D15,endothelial,endothelial,arterial EC
+ACGGAGACTGACTTAT-1_D13,haematopoietic,progenitor / erythroid,erythroid progenitor
+AAAATGACATACTCTC-1_D12,haematopoietic,myeloid,neutrophil
+TTTACTTCTCAGCTTG-1_D13,haematopoietic,lymphoid,T cell
+TATGACTAAGAGGCCA-1_D15,stromal,osteolineage,osteoprogenitor
+GATCAACGCCAGTATC-1_D03,haematopoietic,lymphoid,T cell
+GTGTTGAACCTAGCGA-1_D02,haematopoietic,myeloid,neutrophil
+CTCCAAGCCTCAAAGC-1_D15,endothelial,endothelial,arterial EC
+AATCTATAACCAGTAA-1_D15,doublet,doublet,doublet
+GCGAGCCTTACTTTCG-1_D02,stromal,osteolineage,osteoblast
+CAGCATAGGAAGTTTC-1_D06,haematopoietic,lymphoid,T cell
+CAAGATTCGAAATCGG-1_D01,haematopoietic,myeloid,osteoclast
+AGGGAAGCCCCCCTTC-1_D11,stromal,osteolineage,osteoprogenitor
+TCCGGGGTGGAGGGAA-1_D03,haematopoietic,myeloid,macrophage
+AGGGAGACCGTCTATG-1_D10,haematopoietic,myeloid,classical monocyte
+TTACGCCCCATGCAGT-1_D02,haematopoietic,myeloid,neutrophil
+AGAATGTGTAGTGTGA-1_D09,endothelial,endothelial,sinusoidal EC
+TAGTTAATCGGTCAGC-1_D05,haematopoietic,myeloid,classical monocyte
+CGTGCCTGGCTACCCT-1_D05,haematopoietic,myeloid,classical monocyte
+TTGGCAGGACATGGAC-1_D07,haematopoietic,lymphoid,B cell
+TATGGTGAACTCATTT-1_D10,haematopoietic,lymphoid,T cell
+AGTCGATATCGCACTT-1_D13,haematopoietic,lymphoid,B cell
+ATGGCGATAGACATCT-1_D06,haematopoietic,myeloid,classical monocyte
+ATAGTGTGAACAGGAA-1_D13,haematopoietic,lymphoid,T cell
+TTGTATCGTTCTAGTT-1_D15,haematopoietic,myeloid,classical monocyte
+GGAGCAGAACGCTGTC-1_D14,endothelial,endothelial,sinusoidal EC
+AGGCGAAGGCTGTGCA-1_D11,stromal,chondrocyte,chondrocyte
+ATTACGATGTCTTGTC-1_D12,haematopoietic,myeloid,classical monocyte
+TCCTTGTCGCCGAGCG-1_D06,stromal,reticular (CAR),Adipo-CAR
+AGGCTTCCGAGCCCCA-1_D04,haematopoietic,myeloid,classical monocyte
+GGATGCGGGCGCTTTG-1_D12,haematopoietic,myeloid,neutrophil
+TTGAGTTACCATGGGG-1_D11,haematopoietic,progenitor / erythroid,erythroid progenitor
+CTCGGGGTTAAACTAA-1_D07,haematopoietic,myeloid,osteoclast
+GTGTCTAAGACTGATA-1_D07,haematopoietic,myeloid,macrophage
+AGTTCGGAAGGAAGTG-1_D04,doublet,doublet,doublet
+CACGGTACCGGAGCGG-1_D06,endothelial,endothelial,sinusoidal EC
+TCGTGCTCAAGCAAAG-1_D04,haematopoietic,myeloid,macrophage
+AATCTAGCGTAGCGGG-1_D03,haematopoietic,lymphoid,T cell
+CATAGAAGGTCTAGTG-1_D10,stromal,reticular (CAR),Adipo-CAR
+GCTCAATTCACATCAA-1_D10,haematopoietic,myeloid,classical monocyte
+TCCCAGCGCCAGAGGT-1_D02,haematopoietic,myeloid,neutrophil
+GTGCTCCTAACAGACC-1_D15,haematopoietic,progenitor / erythroid,erythroid progenitor
+ATGTTGACTCATCAGA-1_D08,stromal,osteolineage,osteoblast
+GGGCTCGAAGCCGGCA-1_D04,haematopoietic,myeloid,osteoclast
+GAAACTTAGATTTGTT-1_D16,haematopoietic,myeloid,macrophage
+AGCATATGCTAAGGAC-1_D08,haematopoietic,progenitor / erythroid,erythroid progenitor
+GGAGGGCCGGCTGCGG-1_D06,haematopoietic,myeloid,classical monocyte
+AATGCGGCCCAGTAAG-1_D10,haematopoietic,progenitor / erythroid,HSPC
+TATGATTGTTAATGCG-1_D06,haematopoietic,myeloid,macrophage
+GATATAACGAGGGTGC-1_D03,stromal,reticular (CAR),Osteo-CAR
+GACAACAAGGCACGTA-1_D10,haematopoietic,myeloid,classical monocyte
+AACTGTGCAGATTGAC-1_D05,haematopoietic,myeloid,classical monocyte
+GTGCAGATATTCCCCC-1_D01,haematopoietic,myeloid,macrophage
+AGCGGCATTGAGTTGA-1_D14,haematopoietic,myeloid,neutrophil
+TACCGGAGCTAGACCA-1_D11,haematopoietic,lymphoid,T cell
+GGACCCTTTTAAGGCA-1_D07,haematopoietic,lymphoid,T cell
+ACTTGGTTTGACCGCG-1_D14,stromal,osteolineage,osteoprogenitor
+GCTGCCCGACTCGCAT-1_D12,haematopoietic,lymphoid,B cell
+TTGGTTACATATAGGG-1_D12,haematopoietic,myeloid,neutrophil
+GGAAATTGAGTAACGA-1_D07,haematopoietic,myeloid,neutrophil
+TGCTACATGGTGTCCG-1_D10,haematopoietic,progenitor / erythroid,erythroid progenitor
+CCGTATCTTTGTTCAA-1_D06,haematopoietic,myeloid,osteoclast
+TGTTCCCCCGATAAGG-1_D11,haematopoietic,lymphoid,B cell
+TTTTAAGGACTGCCGC-1_D12,doublet,doublet,doublet
+CAAGTGTGCAGTATAT-1_D14,stromal,reticular (CAR),Osteo-CAR
+GTCCCAGAAGACGCGA-1_D12,haematopoietic,myeloid,neutrophil
+TAGGCCTATAAATTAT-1_D05,stromal,reticular (CAR),Osteo-CAR
+GGGACAGTATTGGTTA-1_D09,haematopoietic,myeloid,osteoclast
+TCAAACAACTTGCATA-1_D11,stromal,osteolineage,osteoprogenitor
+CTATCTTAGTCAGGGA-1_D14,haematopoietic,lymphoid,T cell
+TTGGGTGCGGCGGAAG-1_D04,haematopoietic,lymphoid,B cell
+AGCTGGCCATGGAATT-1_D08,stromal,osteolineage,osteoprogenitor
+CTACAACTTTGTATTT-1_D02,stromal,chondrocyte,chondrocyte
+CAGCGACGAAGAGTGC-1_D14,haematopoietic,myeloid,neutrophil
+AGATTCAAGGCCTCGC-1_D08,haematopoietic,myeloid,classical monocyte
+TTACGCTAGGCTACTC-1_D01,haematopoietic,lymphoid,B cell
+GATCAATGCGCCTTGA-1_D03,haematopoietic,myeloid,macrophage
+GACCGTATTCGCAACT-1_D09,stromal,osteolineage,osteoprogenitor
+CTTATTATCGTACGCA-1_D08,stromal,reticular (CAR),Adipo-CAR
+CAACGAAATCGTCGCT-1_D07,endothelial,endothelial,sinusoidal EC
+AAATTACTCTACGCTG-1_D15,haematopoietic,myeloid,neutrophil
+AGACACCTACACAATC-1_D12,stromal,reticular (CAR),Adipo-CAR
+GTTTACCTTTCTAGCC-1_D06,haematopoietic,myeloid,osteoclast
+GCGTGGACCTCATCAT-1_D07,stromal,osteolineage,osteoblast
+TAGCAACGTTACAAAC-1_D11,doublet,doublet,doublet
+GAGCATTTAACATGGA-1_D12,haematopoietic,lymphoid,T cell
+CGAGGGTAGGTGCGTC-1_D07,stromal,osteolineage,osteoprogenitor
+TTTTTGACAAAGTTCC-1_D10,haematopoietic,lymphoid,T cell
+TGCCATACCTCTGGCA-1_D16,haematopoietic,lymphoid,B cell
+ACGGGACAGGGGTCCT-1_D12,haematopoietic,myeloid,macrophage
+TCCTCCGATCATCTTG-1_D10,endothelial,endothelial,arterial EC
+TCCGTTCGAGGACGAC-1_D15,stromal,reticular (CAR),Adipo-CAR
+CACGCCACATAATGTT-1_D11,haematopoietic,myeloid,classical monocyte
+CCACAAACTAAGATCT-1_D12,haematopoietic,progenitor / erythroid,HSPC
+GAGGGGATAGTAACTT-1_D02,stromal,osteolineage,osteoprogenitor
+CCCAAAAATTCCTGGG-1_D12,haematopoietic,progenitor / erythroid,erythroid progenitor
+CTCCGATGGCATTCTT-1_D03,endothelial,endothelial,sinusoidal EC
+ATTTGCGGGTGGTCGG-1_D10,haematopoietic,progenitor / erythroid,HSPC
+CTGCCATCGGAGTTAG-1_D11,stromal,osteolineage,osteoprogenitor
+GACGTAGTAGTGACTA-1_D07,haematopoietic,myeloid,osteoclast
+TTGACGGGCAAATTGC-1_D05,haematopoietic,lymphoid,T cell
+ACGTAATAGCAACCCC-1_D16,stromal,reticular (CAR),Adipo-CAR
+ATACATTTGTCACTGC-1_D06,haematopoietic,myeloid,neutrophil
+TCCGCCTAGGCAGCCG-1_D13,haematopoietic,myeloid,osteoclast
+CTTTACACCGGTCACT-1_D01,haematopoietic,myeloid,neutrophil
+AGATCGCACGATCTCG-1_D11,haematopoietic,lymphoid,T cell
+ACGATATATCGTATCA-1_D13,stromal,reticular (CAR),Adipo-CAR
+TCCTCTCGGTCGTTTT-1_D05,haematopoietic,myeloid,macrophage
+AATACTGTATAACGTG-1_D15,stromal,reticular (CAR),Osteo-CAR
+ATACCATTTGTCTATG-1_D02,haematopoietic,myeloid,neutrophil
+CATTCCAAGTTGGGTC-1_D04,haematopoietic,myeloid,classical monocyte
+GTTTAATACTAGAAGG-1_D05,haematopoietic,lymphoid,T cell
+AACACGGTGTGAACGG-1_D03,haematopoietic,lymphoid,B cell
+ATTCACCTAATTCACA-1_D01,endothelial,endothelial,sinusoidal EC
+GGTTGAACGCCTATTG-1_D06,stromal,reticular (CAR),Osteo-CAR
+AGAACTCGCCACATAC-1_D07,haematopoietic,myeloid,neutrophil
+GCTTCGGTTTCCGCAA-1_D09,haematopoietic,myeloid,macrophage
+ACATCCGTAGCGAAGG-1_D09,haematopoietic,myeloid,osteoclast
+GTCCAGAGGTTGGGCA-1_D12,haematopoietic,myeloid,neutrophil
+GACAACCAACATTAGT-1_D04,stromal,osteolineage,osteocyte
+GACGCCTTTGGGGCAT-1_D16,haematopoietic,myeloid,macrophage
+TATGCTCTGTATCCCG-1_D08,stromal,reticular (CAR),Adipo-CAR
+AGCGATGAGGTGGCAA-1_D09,stromal,reticular (CAR),Adipo-CAR
+GTCAGACAACGAAAAC-1_D10,haematopoietic,progenitor / erythroid,HSPC
+AAGGGCTGAATCATAA-1_D16,haematopoietic,myeloid,neutrophil
+TAGCTCTAGTGCGCAA-1_D02,stromal,osteolineage,osteoblast
+GGATACTTGGGACCGT-1_D07,doublet,doublet,doublet
+AGCCAGTATTCGGATC-1_D13,stromal,chondrocyte,chondrocyte
+GTAGTCCCTTGATTCC-1_D04,haematopoietic,myeloid,osteoclast
+GCGTTACACACTATGA-1_D08,stromal,osteolineage,osteoprogenitor
+AGCCAAACCACGTAAG-1_D15,haematopoietic,lymphoid,B cell
+AGCAACCCGCTAGAGT-1_D13,haematopoietic,myeloid,neutrophil
+AGAAGATACCACTACC-1_D16,stromal,osteolineage,osteoprogenitor
+TTCTCCACTGATATTG-1_D02,haematopoietic,lymphoid,T cell
+TGCACGTCTACCAGGA-1_D11,haematopoietic,progenitor / erythroid,erythroid progenitor
+AACCGGCATCTTTCCC-1_D07,haematopoietic,myeloid,osteoclast
+CGGCTTGAAAGTCTGC-1_D10,haematopoietic,myeloid,neutrophil
+TCCACATCGCTCGTGT-1_D10,haematopoietic,myeloid,classical monocyte
+ACATCCCCAGGACGAG-1_D11,haematopoietic,myeloid,classical monocyte
+CGCGTCGCAAAAATCA-1_D10,stromal,reticular (CAR),Adipo-CAR
+CACAGCCAAGATGGCA-1_D11,stromal,osteolineage,osteoblast
+AACTCAGTGCCTATTA-1_D15,haematopoietic,myeloid,macrophage
+AAGTTGTGTGGTGCGA-1_D03,haematopoietic,myeloid,neutrophil
+TCCGAGAAACCCGGCC-1_D11,endothelial,endothelial,sinusoidal EC
+TCTTTAGGTGCCGTTT-1_D07,endothelial,endothelial,arterial EC
+CCGATGATGCACTTAG-1_D15,haematopoietic,lymphoid,T cell
+CGTCCGACTTGGGCTT-1_D08,haematopoietic,myeloid,macrophage
+GTCGAAGTGCGCGTAT-1_D05,haematopoietic,myeloid,classical monocyte
+GTCACCTAATGGTCCA-1_D04,haematopoietic,myeloid,neutrophil
+AACTCTGCTAGTTGCG-1_D05,endothelial,endothelial,arterial EC
+TAAGCGTCTGTATACA-1_D07,stromal,chondrocyte,chondrocyte
+TTCGCGACGCAATGTC-1_D08,haematopoietic,myeloid,osteoclast
+GGGGTTGATACCTTCC-1_D11,haematopoietic,myeloid,neutrophil
+GACGCCGACTATAATA-1_D14,haematopoietic,myeloid,classical monocyte
+CGTTTGGCAGGCGTTT-1_D12,stromal,reticular (CAR),Adipo-CAR
+CAGCTGCGCCTCGCGA-1_D13,haematopoietic,myeloid,classical monocyte
+GCTTAGCGCCGCACAT-1_D11,haematopoietic,myeloid,classical monocyte
+ACACATGATTTTTGGC-1_D16,haematopoietic,myeloid,neutrophil
+GGTCGTCAAGGAACGT-1_D13,haematopoietic,myeloid,neutrophil
+GTCGGTCGGCAATGAT-1_D03,haematopoietic,myeloid,macrophage
+CAAGACACATCAAAAA-1_D12,haematopoietic,myeloid,neutrophil
+GGTCATTCGTTGGTAA-1_D15,stromal,osteolineage,osteoblast
+GTGTAACCACGTTGCC-1_D03,stromal,reticular (CAR),Adipo-CAR
+TGGAAATGCTAGCTCC-1_D15,haematopoietic,myeloid,macrophage
+GTAGTTAAATACCCCG-1_D12,haematopoietic,myeloid,macrophage
+TATACGGTGACCCTCA-1_D14,haematopoietic,lymphoid,B cell
+GGGATAATTAACCATT-1_D10,doublet,doublet,doublet
+CGAGGCGGTAATCATA-1_D03,haematopoietic,myeloid,neutrophil
+AGACCCCATTTATACG-1_D02,stromal,osteolineage,osteocyte
+CCGGTAACATTCGGAA-1_D13,haematopoietic,myeloid,macrophage
+GTTGCGTCGGAGATGG-1_D10,stromal,osteolineage,osteoblast
+GAGTGATAACGCTTAT-1_D02,haematopoietic,myeloid,osteoclast
+GTTGTCGCCACCACTT-1_D08,stromal,reticular (CAR),Osteo-CAR
+CATATGATTGCGCACC-1_D01,haematopoietic,lymphoid,B cell
+TCTTTCCCCAGAGACG-1_D14,stromal,osteolineage,osteoblast
+GGAAGTTGGCCGTCGA-1_D08,haematopoietic,myeloid,osteoclast
+GTCTCGGCCCGTGAGA-1_D06,haematopoietic,myeloid,classical monocyte
