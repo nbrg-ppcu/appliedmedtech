@@ -1,6 +1,6 @@
 # Session 6: The marker game
 
-[Student notebook](FS_markers.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/session-06-feature-selection/notebooks/session_06/FS_markers.ipynb)
+[Student notebook](FS_markers.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/main/notebooks/session_06/FS_markers.ipynb)
 
 Open the notebook in Colab, save a copy in Drive, and run the setup cells in order. The first cell installs the packages; the study CSV loads directly from GitHub. A Python CPU runtime is sufficient.
 
