@@ -2,7 +2,7 @@
 
 Classifying blood cell types and evaluating transfer to new donors and a biobank.
 
-[Student notebook](S5_sccells.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/session-05-single-cells/notebooks/session_05/S5_sccells.ipynb)
+[Student notebook](S5_sccells.ipynb) · [Open in Colab](https://colab.research.google.com/github/nbrg-ppcu/appliedmedtech/blob/main/notebooks/session_05/S5_sccells.ipynb)
 
 ## Materials
 
